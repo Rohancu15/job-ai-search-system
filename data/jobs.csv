@@ -1,0 +1,51 @@
+job_id,title,company,location,skills,experience,description
+1,Data Scientist,TCS,Delhi,"Python, ML, Pandas, Scikit-learn, Statistics",2-5,Create predictive models and analyze large datasets.
+2,Data Analyst,Amazon,Mumbai,"SQL, Excel, Power BI, Python",2-5,Analyze datasets and build dashboards for business reporting.
+3,Java Developer,L&T Mindtree,Hyderabad,"Java, Spring Boot, REST API, MySQL",2-5,Develop enterprise backend services using Spring Boot.
+4,DevOps Engineer,Tech Mahindra,Kochi,"Linux, Docker, Kubernetes, AWS, CI/CD, Jenkins",0-2,Implement CI/CD pipelines and manage containers.
+5,Data Analyst,Wipro,Pune,"SQL, Excel, Power BI, Python",2-5,Analyze datasets and build dashboards for business reporting.
+6,Data Scientist,Tech Mahindra,Delhi,"Python, ML, Pandas, Scikit-learn, Statistics",5+,Create predictive models and analyze large datasets.
+7,Frontend Developer,L&T Mindtree,Pune,"HTML, CSS, JavaScript, React",0-2,Build UI components in React and optimize performance.
+8,Machine Learning Engineer,Fractal,Hyderabad,"Python, ML, NLP, TensorFlow, Pandas",0-2,Develop ML models and deploy training pipelines.
+9,Full Stack Developer,Fractal,Hyderabad,"Python, React, REST API, SQL",5+,Build full stack apps with backend APIs and frontend UI.
+10,Machine Learning Engineer,Fractal,Coimbatore,"Python, ML, NLP, TensorFlow, Pandas",5+,Develop ML models and deploy training pipelines.
+11,DevOps Engineer,Zoho,Chennai,"Linux, Docker, Kubernetes, AWS, CI/CD, Jenkins",0-2,Implement CI/CD pipelines and manage containers.
+12,Java Developer,Wipro,Delhi,"Java, Spring Boot, REST API, MySQL",5+,Develop enterprise backend services using Spring Boot.
+13,Python Developer,Microsoft,Delhi,"Python, Django, REST API, PostgreSQL",0-2,Build backend APIs using Django and REST framework.
+14,DevOps Engineer,Wipro,Chennai,"Linux, Docker, Kubernetes, AWS, CI/CD, Jenkins",5+,Implement CI/CD pipelines and manage containers.
+15,Data Scientist,Zoho,Mumbai,"Python, ML, Pandas, Scikit-learn, Statistics",0-2,Create predictive models and analyze large datasets.
+16,DevOps Engineer,Zoho,Delhi,"Linux, Docker, Kubernetes, AWS, CI/CD, Jenkins",2-5,Implement CI/CD pipelines and manage containers.
+17,Java Developer,Amazon,Delhi,"Java, Spring Boot, REST API, MySQL",0-2,Develop enterprise backend services using Spring Boot.
+18,Data Analyst,Infosys,Bengaluru,"SQL, Excel, Power BI, Python",5+,Analyze datasets and build dashboards for business reporting.
+19,Frontend Developer,Google,Coimbatore,"HTML, CSS, JavaScript, React",5+,Build UI components in React and optimize performance.
+20,Full Stack Developer,Fractal,Delhi,"Python, React, REST API, SQL",0-2,Build full stack apps with backend APIs and frontend UI.
+21,Full Stack Developer,Microsoft,Hyderabad,"Python, React, REST API, SQL",0-2,Build full stack apps with backend APIs and frontend UI.
+22,Frontend Developer,Microsoft,Coimbatore,"HTML, CSS, JavaScript, React",2-5,Build UI components in React and optimize performance.
+23,Machine Learning Engineer,Amazon,Pune,"Python, ML, NLP, TensorFlow, Pandas",2-5,Develop ML models and deploy training pipelines.
+24,Machine Learning Engineer,Infosys,Kochi,"Python, ML, NLP, TensorFlow, Pandas",2-5,Develop ML models and deploy training pipelines.
+25,DevOps Engineer,L&T Mindtree,Hyderabad,"Linux, Docker, Kubernetes, AWS, CI/CD, Jenkins",0-2,Implement CI/CD pipelines and manage containers.
+26,Backend Engineer,Zoho,Bengaluru,"Python, FastAPI, MongoDB, Redis, Microservices",2-5,Build scalable backend services using FastAPI and microservice architecture.
+27,DevOps Engineer,Infosys,Hyderabad,"Linux, Docker, Kubernetes, AWS, CI/CD, Jenkins",5+,Implement CI/CD pipelines and manage containers.
+28,Data Analyst,Microsoft,Coimbatore,"SQL, Excel, Power BI, Python",0-2,Analyze datasets and build dashboards for business reporting.
+29,Java Developer,Fractal,Delhi,"Java, Spring Boot, REST API, MySQL",2-5,Develop enterprise backend services using Spring Boot.
+30,Data Analyst,Infosys,Bengaluru,"SQL, Excel, Power BI, Python",0-2,Analyze datasets and build dashboards for business reporting.
+31,Java Developer,Infosys,Mumbai,"Java, Spring Boot, REST API, MySQL",2-5,Develop enterprise backend services using Spring Boot.
+32,DevOps Engineer,Infosys,Bengaluru,"Linux, Docker, Kubernetes, AWS, CI/CD, Jenkins",5+,Implement CI/CD pipelines and manage containers.
+33,Data Scientist,Wipro,Coimbatore,"Python, ML, Pandas, Scikit-learn, Statistics",2-5,Create predictive models and analyze large datasets.
+34,Backend Engineer,L&T Mindtree,Kochi,"Python, FastAPI, MongoDB, Redis, Microservices",5+,Build scalable backend services using FastAPI and microservice architecture.
+35,Frontend Developer,Zoho,Delhi,"HTML, CSS, JavaScript, React",5+,Build UI components in React and optimize performance.
+36,Full Stack Developer,Amazon,Coimbatore,"Python, React, REST API, SQL",5+,Build full stack apps with backend APIs and frontend UI.
+37,DevOps Engineer,Amazon,Mumbai,"Linux, Docker, Kubernetes, AWS, CI/CD, Jenkins",5+,Implement CI/CD pipelines and manage containers.
+38,Data Analyst,Microsoft,Bengaluru,"SQL, Excel, Power BI, Python",5+,Analyze datasets and build dashboards for business reporting.
+39,Full Stack Developer,Zoho,Hyderabad,"Python, React, REST API, SQL",5+,Build full stack apps with backend APIs and frontend UI.
+40,Python Developer,L&T Mindtree,Bengaluru,"Python, Django, REST API, PostgreSQL",2-5,Build backend APIs using Django and REST framework.
+41,Data Scientist,Fractal,Pune,"Python, ML, Pandas, Scikit-learn, Statistics",0-2,Create predictive models and analyze large datasets.
+42,Python Developer,Microsoft,Coimbatore,"Python, Django, REST API, PostgreSQL",2-5,Build backend APIs using Django and REST framework.
+43,Data Scientist,Wipro,Coimbatore,"Python, ML, Pandas, Scikit-learn, Statistics",2-5,Create predictive models and analyze large datasets.
+44,Java Developer,Wipro,Mumbai,"Java, Spring Boot, REST API, MySQL",5+,Develop enterprise backend services using Spring Boot.
+45,Machine Learning Engineer,Wipro,Delhi,"Python, ML, NLP, TensorFlow, Pandas",0-2,Develop ML models and deploy training pipelines.
+46,Data Scientist,Fractal,Kochi,"Python, ML, Pandas, Scikit-learn, Statistics",5+,Create predictive models and analyze large datasets.
+47,Backend Engineer,TCS,Bengaluru,"Python, FastAPI, MongoDB, Redis, Microservices",5+,Build scalable backend services using FastAPI and microservice architecture.
+48,Full Stack Developer,Microsoft,Delhi,"Python, React, REST API, SQL",0-2,Build full stack apps with backend APIs and frontend UI.
+49,Frontend Developer,Wipro,Kochi,"HTML, CSS, JavaScript, React",5+,Build UI components in React and optimize performance.
+50,Machine Learning Engineer,Fractal,Pune,"Python, ML, NLP, TensorFlow, Pandas",5+,Develop ML models and deploy training pipelines.
