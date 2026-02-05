@@ -103,17 +103,5 @@ streamlit run frontend/streamlit_app.py
 UI runs at:
 http://localhost:8501
 
-The UI looks like this:
-<img width="1405" height="848" alt="Screenshot 2026-02-05 151211" src="https://github.com/user-attachments/assets/651200d9-c48f-4f99-bcf0-f6baaab7e35b" />
-
-<img width="1405" height="848" alt="Screenshot 2026-02-05 151211" src="https://github.com/user-attachments/assets/641fadd5-1588-4a9c-a490-c824d29ae6b5" />
-<img width="1608" height="854" alt="Screenshot 2026-02-05 151153" src="https://github.com/user-attachments/asse<img width="1849" height="599" alt="Screenshot 2026-02-05 141758" src="https://github.com/user-attachments/assets/03a3cd85-a709-4208-afc5-247f7d6b475b" />
-ts/d17c4e1a-2bff-43d2-b472-e940ac7d735c" />
-<img width="1293" height="802" alt="Screenshot 2026-02-05 151116" src="https://github.com/user-attachments/assets/3be5e15e-8bcc-4afd-aa73-9b8dfd545833" />
-
-
-
-<img width="1849" height="599" alt="Screenshot 2026-02-05 141758" src="https://github.com/user-attachments/assets/a65ded25-8a74-41b7-84ee-165153e82d5a" />
-
 
 
